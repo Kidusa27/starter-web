@@ -16,3 +16,6 @@ In conclusion...
 ## CONCLUSION:
 
 Copyright 2011 me
+
+
+PS: Contributions welcome.
