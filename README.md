@@ -14,3 +14,5 @@ Not really sure what this section if for. Stay tuned.
 In conclusion...
 
 ## CONCLUSION:
+
+Copyright 2011 me
